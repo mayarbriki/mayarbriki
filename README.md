@@ -11,6 +11,7 @@ I'm a full-stack developer with experience in Java, Angular, and .NET.
 [![Mayar's GitHub stats](https://github-readme-stats.vercel.app/api?username=mayarbriki&show_icons=true&theme=radical)](https://github-readme-stats.vercel.app/api?username=mayarbriki&count_private=true&show_icons=true&cache_seconds=1800
 )
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mayarbriki&layout=compact&theme=radical)
+[![trophy](https://github-profile-trophy.vercel.app/?username=mayarbriki&theme=onedark&column=3&no-frame=true&margin-w=15)](https://github.com/ryo-ma/github-profile-trophy)
 
 <!--
 **mayarbriki/mayarbriki** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
