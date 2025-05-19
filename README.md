@@ -2,13 +2,13 @@
 # 
 I'm a full-stack developer with experience in Java, Angular, and .NET.
 
-## 🛠Tech Stack
+## Tech Stack
 - Frontend: Angular, HTML, CSS, JS
-- Backend: Spring Boot, .NET, Node.js
+- Backend: Spring Boot, .NET
 - Database: MongoDB, SQL Server, MySQL
 
 ## 📈 GitHub Stats
-![Mayar's GitHub stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical)
+![Mayar's GitHub stats](https://github-readme-stats.vercel.app/api?username=mayarbriki&show_icons=true&theme=radical)
 
 <!--
 **mayarbriki/mayarbriki** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
