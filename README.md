@@ -7,7 +7,7 @@ I'm a full-stack developer with experience in Java, Angular, and .NET.
 - Backend: Spring Boot, .NET
 - Database: MongoDB, SQL Server, MySQL
 
-## 📈 GitHub Stats
+##  GitHub Stats
 [![Mayar's GitHub stats](https://github-readme-stats.vercel.app/api?username=mayarbriki&show_icons=true&theme=radical)](https://github-readme-stats.vercel.app/api?username=mayarbriki&count_private=true&show_icons=true&cache_seconds=1800
 )
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mayarbriki&layout=compact&theme=radical)
