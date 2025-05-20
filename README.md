@@ -1,4 +1,4 @@
-## Hi there 
+## BRIKI Mayar
 # 
 I'm a full-stack developer with experience in Java, Angular, and .NET.
 
