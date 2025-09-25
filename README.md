@@ -26,7 +26,8 @@ Frontend: Angular, React, HTML5, CSS3, JavaScript (ES6+)
 Backend: Spring Boot, .NET, Node.js, Express.js
 
 Databases: MongoDB, MySQL, PostgreSQL, SQL Server
-Profiles
+**Profiles**  
+- **LinkedIn:** [Mayar Briki](https://www.linkedin.com/in/mayar-briki-23b371222/)  
+- **Stack Overflow:** [Mayar Briki](https://stackoverflow.com/users/23325961/mayar-briki)
 
-LinkedIn: linkedin.com/in/mayar-briki-23b371222 
 
